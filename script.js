@@ -23,3 +23,5 @@ const funcName = ()=>{
 import {var1,var3} from 'module1';
 import {var2} from 'module1';
 
+console.log()
+debugger
